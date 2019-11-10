@@ -1,4 +1,4 @@
-# ibm_datathon
+# Berkeley DSS IBM Datathon
 
   This is a data analysis project completed in a short time span of one day and a half at the Data Science Society @ Berkeley
   Datathon for Social Good.
